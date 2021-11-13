@@ -1,2 +1,3 @@
 # git-lesson-yigit
-git dersleri
+
+bu bizim githubdaki ilk calismamiz
